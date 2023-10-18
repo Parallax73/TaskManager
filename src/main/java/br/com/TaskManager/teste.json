@@ -1,0 +1,38 @@
+{
+  "usuarioId" : "1",
+  "Nome" : "Jose",
+  "Email" : "sla@gmail",
+  "Tarefas":{
+    "tarefaId" : "2",
+    "Nome" : "asd",
+    "Status" : "FEITO",
+    "Prioridade" : "BAIXA",
+    "ETA" : "2023-10-14",
+
+
+
+    "tarefaId" : "3",
+    "Nome" : "asd",
+    "Status" : "FEITO",
+    "Prioridade" : "BAIXA",
+    "ETA" : "2023-10-14",
+
+
+
+
+    "tarefaId" : "4",
+    "Nome" : "asd",
+    "Status" : "FEITO",
+    "Prioridade" : "BAIXA",
+    "ETA" : "2023-10-14"
+  }
+
+
+
+
+
+
+  }
+
+
+}

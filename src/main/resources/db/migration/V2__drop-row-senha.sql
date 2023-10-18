@@ -1,0 +1,2 @@
+ALTER TABLE Usuarios
+DROP COLUMN senha;
